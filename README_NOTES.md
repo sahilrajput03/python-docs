@@ -1,5 +1,9 @@
 # Notes
 
+Docs are written in **reStructuredText** format e.g., check files - `docs/index.rst` and `docs/api.rst` in this project.
+
+- Docs are automatically pushed as you as you commit to this github repo and web hooks from readthedocs automatically deploys your new changes.
+
 Published to - https://python-docs1.readthedocs.io/
 
 Src: [Click here](https://docs.readthedocs.com/platform/stable/tutorial/index.html#preparing-your-repository-on-github)
