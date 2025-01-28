@@ -1,4 +1,4 @@
-API
+30 Days of Python Notes
 ===
 
 .. autosummary::
