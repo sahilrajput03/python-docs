@@ -1,4 +1,4 @@
-# Notes
+# Demo of Read the docs (with Alex Vishwa)
 
 Docs are written in **reStructuredText** format e.g., check files - `docs/index.rst` and `docs/api.rst` in this project.
 
