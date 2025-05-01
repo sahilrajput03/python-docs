@@ -1,7 +1,10 @@
 **Quick Links:**
 - Pricing: Community Editions is always free but shows ads: [Click here](https://about.readthedocs.com/pricing/#/community)
 - **Used in projects:**
-  - ❤️ Cloud-init documentation: [Click here](https://cloudinit.readthedocs.io/en/latest/index.html) (Features: Search (by using key `/`, export as EPUB, PDF, HTML (complete site)).
+  - ❤️ Cloud-init documentation: [Click here](https://cloudinit.readthedocs.io/en/latest/index.html)
+    - Features:
+      - Search by using key `/`
+      - Export as EPUB, PDF, HTML (complete site)) by clicking on bottom-right "Read the Docs" button on the site.
 
 # Demo of Read the docs (with Alex Vishwa)
 
