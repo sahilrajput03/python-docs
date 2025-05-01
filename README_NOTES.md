@@ -1,10 +1,15 @@
+**Quick Links:**
+- Pricing: Community Editions is always free but shows ads: [Click here](https://about.readthedocs.com/pricing/#/community)
+- **Used in projects:**
+  - ❤️ Cloud-init documentation: [Click here](https://cloudinit.readthedocs.io/en/latest/index.html) (Features: Search (by using key `/`, export as EPUB, PDF, HTML (complete site)).
+
 # Demo of Read the docs (with Alex Vishwa)
 
 Docs are written in **reStructuredText** format e.g., check files - `docs/index.rst` and `docs/api.rst` in this project.
 
 - Docs are automatically pushed as you as you commit to this github repo and web hooks from readthedocs automatically deploys your new changes.
 
-Published to - https://python-docs1.readthedocs.io/
+Published to - [https://python-docs1.readthedocs.io](https://python-docs1.readthedocs.io)
 
 Src: [Click here](https://docs.readthedocs.com/platform/stable/tutorial/index.html#preparing-your-repository-on-github)
 
